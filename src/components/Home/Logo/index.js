@@ -44,7 +44,6 @@ const Logo = () => {
         src={LogoS}
         alt="JavaScript,  Developer"
       />
-
       <svg
         width="559pt"
         height="897pt"

@@ -2,33 +2,40 @@
     "portfolio": [
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Aiyla",
+            "description": "Wix, CSS, Javascript",
+            "url": "https://www.aiylalondon.com"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/bitbybits.png",
+            "title": "BitbyBits",
+            "description": "Wordpress, PHP, Tailwind, Javascript",
+            "url": "https://bitbybits.net/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/1/nge.png",
+            "title": "NGE 360",
+            "description": "Html, CSS, Javascript",
+            "url": "https://nge-360.com"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
+            "cover": "/portfolio/1/polpi.png",
+            "title": "Polpi",
             "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://polpi.co.uk/"
+        },
+
+        {
+            "cover": "/portfolio/1/k21.png",
+            "title": "K21Academy",
+            "description": "React, JSX, Tailwind, Jest",
+            "url": "https://k21academy.com/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
+            "cover": "/portfolio/1/cloud.png",
+            "title": "Cloud K21academy",
             "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "url": "https://cloud.k21academy.com/"
         }
     ]
 }
