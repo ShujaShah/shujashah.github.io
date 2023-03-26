@@ -22,13 +22,13 @@
             "cover": "/portfolio/1/github-finder.png",
             "title": "Polpi",
             "description": "React, JSX, Tailwind, DaisyUI",
-            "url": "https://polpi.co.uk/"
+            "url": "https://github-profiles-iota.vercel.app/"
         },
         {
             "cover": "/portfolio/1/polpi.png",
             "title": "Polpi",
             "description": "React, JSX, Tailwind, Jest",
-            "url": "https://github-profiles-iota.vercel.app/"
+            "url": "https://polpi.co.uk"
         },
 
         {
