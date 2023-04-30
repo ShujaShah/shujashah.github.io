@@ -1,6 +1,18 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/1/game-store.png",
+            "title": "Game Shop",
+            "description": "React, TypeScript, Vite",
+            "url": "https://game-store-dusky.vercel.app/"
+        },
+        {
+            "cover": "/portfolio/1/redfeather.png",
+            "title": "Game Shop",
+            "description": "Wordpress, Elementor, SASS",
+            "url": "https://game-store-dusky.vercel.app/"
+        },
+        {
             "cover": "/portfolio/1/aiyla.png",
             "title": "Aiyla",
             "description": "Wix, CSS, Javascript",
