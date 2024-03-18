@@ -7,6 +7,12 @@
             "url": "https://game-store-dusky.vercel.app/"
         },
         {
+            "cover": "/portfolio/1/netstream.png",
+            "title": "NetStream",
+            "description": "NextJs, React, Typescript",
+            "url": "https://net-stream.vercel.app/"
+        },
+        {
             "cover": "/portfolio/1/redfeather.png",
             "title": "Game Shop",
             "description": "Wordpress, Elementor, SASS",
